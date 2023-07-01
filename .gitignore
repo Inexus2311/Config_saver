@@ -11,6 +11,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-.test
-.switch_list.txt
-.192.168.178.74.txt
+test
+192.168.178.74.txt
+switch_list.txt

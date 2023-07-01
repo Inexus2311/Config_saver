@@ -56,4 +56,6 @@ Requires [python3](https://www.python.org/downloads/) version
 
 ## License
 
+Free Software version
+
 [MIT License](LICENSE)
